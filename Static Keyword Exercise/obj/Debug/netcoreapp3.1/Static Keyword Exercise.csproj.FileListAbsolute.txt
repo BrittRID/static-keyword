@@ -1,0 +1,13 @@
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.exe
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.deps.json
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.runtimeconfig.json
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.runtimeconfig.dev.json
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\bin\Debug\netcoreapp3.1\Static Keyword Exercise.pdb
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.csproj.AssemblyReference.cache
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.dll
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.pdb
+C:\Users\britt\OneDrive\Desktop\repos\Static Keyword Exercise\Static Keyword Exercise\obj\Debug\netcoreapp3.1\Static Keyword Exercise.genruntimeconfig.cache

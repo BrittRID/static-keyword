@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Dayj4eFs2finE+7hsGL0zwUVmULw0+Q2fK9gOmblpoe3G8Bzk09bI5tCgWu7QE7JT5v0Ra3oGZnp4oaL8fM+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\britt\\OneDrive\\Desktop\\repos\\Static Keyword Exercise\\Static Keyword Exercise\\Static Keyword Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\britt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
